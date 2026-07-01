@@ -33,6 +33,14 @@ MACburncore/
 │   ├── overlay.py (optional, not used in final version)
 │
 └── README.md
+
+Make sur eyou make a folder names src and put engine.py in it bridge.py , compute.py and overlay.py 
+in the same src folder 
+
+Your main.py should be OUTSIDE OF YOUR SCR FOLDER NOT IN IT 
+
+
+
 How to Run
 
 Clone or download the project:
