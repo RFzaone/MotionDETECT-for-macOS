@@ -40,15 +40,8 @@ MACburncore/
 
 ## 💻 How to Run
 
-1. Clone or download the project:
-   ```bash
-   git clone https://github.com/yourusername/surveillance-matrix.git
-   cd surveillance-matrix
-   ```
-2. Run the main execution script:
-   ```bash
-   python3 main.py
-   ```
+1.  download the project:
+   go to each file and click download 'dont download license or readme you dont need to'
 
 ## ⚙️ How It Works
 1. The webcam initializes and captures a baseline environmental frame.
